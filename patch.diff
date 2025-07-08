@@ -1,0 +1,29 @@
+From 696dd2fb99f8639824ec1dbf7d69e045adc3f643 Mon Sep 17 00:00:00 2001
+From: "KUN\\25926" <2592666817@qq.com>
+Date: Tue, 8 Jul 2025 09:39:46 +0800
+Subject: [PATCH] =?UTF-8?q?=E6=8F=90=E4=BA=A4=E5=BF=BD=E7=95=A5?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+---
+ func/func2.txt | 0
+ main.txt       | 1 +
+ 2 files changed, 1 insertion(+)
+ create mode 100644 func/func2.txt
+
+diff --git a/func/func2.txt b/func/func2.txt
+new file mode 100644
+index 0000000..e69de29
+diff --git a/main.txt b/main.txt
+index 8ec7b73..828b1ea 100644
+--- a/main.txt
++++ b/main.txt
+@@ -5,3 +5,4 @@
+ 制造冲突
+ */
+ code clash
++code clash1
+-- 
+2.50.0.windows.2
+
